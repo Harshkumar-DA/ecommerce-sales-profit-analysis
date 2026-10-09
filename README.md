@@ -66,7 +66,7 @@ The interactive dashboard includes:
 * `Ecommerce_Sales_Dataset.csv` — Dataset
 * `ecommerce_analysis.sql` — SQL queries
 * `E_commerce_Sales_Analytics_Dashboard` — Power BI dashboard
-
+* `dashboard.png` — Dashboard screenshot
 
 ## Author
 
