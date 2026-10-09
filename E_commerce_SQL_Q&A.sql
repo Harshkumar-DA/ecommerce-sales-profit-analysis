@@ -78,8 +78,7 @@ total sales > ₹2 lakh
 AND average profit > ₹2,000
 Q32. Find the average sales and total profit for each customer segment, but show only segments where total profit is greater than ₹20,000.
 Q33. Find the number of delivered, cancelled and returned orders.
-Q34. What percentage-style business insight can you derive from order statuses?
-(SQL me abhi percentage calculation optional rakhenge.)*/
+Q34. What percentage-style business insight can you derive from order statuses?*/
 
 select product , sum(sales) as total_sales from sales group by product order by total_sales desc limit 5 ;
 select order_id,sum(profit) as total_profit from sales group by order_id order by total_profit desc limit 5 ;
