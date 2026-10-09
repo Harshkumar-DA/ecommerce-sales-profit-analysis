@@ -21,7 +21,7 @@ The dataset contains 1,000 e-commerce order records with information about:
 * Sales, cost, and profit
 * Payment mode and order status
 
-**Dataset file:** `Ecommerce_Sales_Analytics_1000_Rows.csv`
+**Dataset file:** `Ecommerce_Sales_Dataset.csv`
 
 ## SQL Business Questions
 
