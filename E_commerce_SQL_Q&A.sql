@@ -1,7 +1,7 @@
 create database sql_1sst_project;
 use sql_1sst_project;
 select * from sales;
-/*🏢 Company-Style SQL Questions
+/*🏢 --- SQL Questions ---
 🟢 Round 1 — Business Understanding
 Q1. Management wants to know the total number of orders received.
 Q2. How many unique cities are generating orders?
