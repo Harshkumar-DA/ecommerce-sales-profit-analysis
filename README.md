@@ -63,10 +63,10 @@ The interactive dashboard includes:
 
 ## Project Files
 
-* `Ecommerce_Sales_Analytics_1000_Rows.csv` — Dataset
+* `Ecommerce_Sales_Dataset.csv` — Dataset
 * `ecommerce_analysis.sql` — SQL queries
-* `dashboard.pbix` — Power BI dashboard
-* `dashboard.png` — Dashboard screenshot
+* `E_commerce_Sales_Analytics_Dashboard` — Power BI dashboard
+
 
 ## Author
 
